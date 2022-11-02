@@ -1,3 +1,2 @@
 # SeleniumRepo
-QA Repo for training purpose
-Creating a Branch for Tetsing
+Repo for training purpose
